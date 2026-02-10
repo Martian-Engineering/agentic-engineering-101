@@ -7,7 +7,7 @@ This repository is a minimal starter kit for configuring coding agents (Codex + 
 - A sync script to install/link these into your local agent config (`scripts/sync-agent-config.sh`)
 - A minimal Codex MCP configuration snippet (`codex/config.toml`)
 
-The [presentation we gave in the talk can be found here](https://pagedrop.ai/s/WKGd2MHKtxDh).
+The [presentation we gave in the talk can be found here](https://pagedrop.ai/s/_4EaN40Un7WJ).
 
 ## Repository Layout
 
