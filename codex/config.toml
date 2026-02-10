@@ -1,0 +1,8 @@
+# this is a minimal example config.toml that shows how to configure maniple to work with codex
+# # You'd put this/merge this into ~/.codex/config.toml
+[mcp_servers.maniple]
+command = "uvx"
+args = ["--from", "maniple-mcp@latest", "maniple"]
+
+[mcp_servers.maniple.lifecycle]
+mode = "keep-alive"
